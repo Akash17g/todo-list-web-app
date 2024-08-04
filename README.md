@@ -7,7 +7,6 @@ This is a simple web-based To-Do List application. It allows users to add, check
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-
 ## Demo
 
 You can view a live demo of the To-Do List App [here](#).
@@ -32,6 +31,3 @@ git clone https://github.com/your-username/todo-list-web-app.git
 cd todo-list-web-app
 
 3.Open index.html in your preferred web browser.
-
-**Usgae**
-
